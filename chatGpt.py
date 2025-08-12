@@ -17,9 +17,6 @@ elif question == "who created you?":
 elif question == "what can you do?":
     print("Bot: I can chat with you and answer simple questions.")
 
-elif question == "tell me a joke?":
-    print("Bot: Why did the scarecrow win an award? Because he was outstanding in his field!")
-
 elif question == "what is your favorite color?":
     print("Bot: My favorite color is blue!")
 
